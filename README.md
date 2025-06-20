@@ -1,55 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI-Powered Resume Analyzer and Builder</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      line-height: 1.6;
-      color: #24292e;
-    }
-    h1, h2, h3 {
-      border-bottom: 1px solid #eaecef;
-      padding-bottom: 0.3em;
-    }
-    code {
-      background-color: #f6f8fa;
-      padding: 2px 4px;
-      border-radius: 3px;
-      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-    }
-    pre {
-      background-color: #f6f8fa;
-      padding: 16px;
-      border-radius: 3px;
-      overflow-x: auto;
-    }
-    pre code {
-      background: none;
-      padding: 0;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .highlight {
-      color: #d73a49;
-    }
-  </style>
-</head>
-<body>
-  <h1>AI-Powered Resume Analyzer and Builder</h1>
+<h1>AI-Powered Resume Analyzer and Builder</h1>
 
   <h2>Overview</h2>
   <p>This project is an AI-powered web application designed to streamline the resume creation and analysis process for job seekers. It integrates a resume analyzer, resume builder, statistics dashboard, feedback system, and an Ollama-powered chatbot, all backed by a MySQL database. The application leverages natural language processing (NLP) and machine learning to provide actionable insights, optimize resumes for Applicant Tracking Systems (ATS), and enhance job application success.</p>
@@ -177,7 +126,7 @@ cd AI-powered-resume-analyzer-builder</code></pre>
     </li>
   </ol>
 
-  <h2>ItUsage</h2>
+  <h2>Usage</h2>
   <ol>
     <li><strong class="highlight">Upload Resume</strong>: Upload a PDF resume or create one from scratch using the resume builder.</li>
     <li><strong class="highlight">Analyze Resume</strong>: The system extracts key information, scores ATS compatibility, and suggests improvements.</li>
@@ -206,7 +155,7 @@ cd AI-powered-resume-analyzer-builder</code></pre>
   <h2>Acknowledgments</h2>
   <ul>
     <li>Inspired by various open-source resume analysis tools.</li>
-    <li>Built with love for job seekers worldwide! 🚀</li>
+    <li>Built with love for job seekers worldwide!</li>
   </ul>
 </body>
 </html>
